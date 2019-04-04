@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554407662 source:c:\users\pc\desktop\tp_1_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcular.h"
+
+1554407631 source:c:\users\pc\desktop\tp_1_\calcular.c
+	"calcular.h"
+
+1554407560 c:\users\pc\desktop\tp_1_\calcular.h
+	<stdio.h>
+	<stdlib.h>
+
